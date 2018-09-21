@@ -20,17 +20,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer and Information Sciences"
   institution = "Temple University"
-  year = 2012
+  #year = 2012
 
 [[education.courses]]
   course = "MS in Computer Software and Theory"
   institution = "Huazhong University of Science and Technology"
-  year = 2007
+  #year = 2007
 
 [[education.courses]]
   course = "BS in Computer Science and Technology"
   institution = "Huazhong University of Science and Technology"
-  year = 2004
+  #year = 2004
  
 +++
 
