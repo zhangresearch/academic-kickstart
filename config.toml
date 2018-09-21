@@ -229,6 +229,16 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:mail.pingzhang@gmail.com"
 
+  [[params.social]]
+    icon = "linkedin-in"
+    icon_pack = "fab"
+    link = "//linkedin.com/in/zhangping"
+
+  #[[params.social]]
+  #  icon = "weixin"
+  #  icon_pack = "fab"
+  #  link = "//linkedin.com/in/zhangping"
+
   #[[params.social]]
   #  icon = "twitter"
   #  icon_pack = "fab"
