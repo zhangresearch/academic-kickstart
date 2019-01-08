@@ -68,10 +68,10 @@ enableGitInfo = false
   { name = "The Ohio State University", url = ""}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "PingZhang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail.pingzhang (at) gmail.com"
-  address = "Room 04-258, 1101 Kitchawan Rd, Yorktown Heights, NY 10598"
-  office_hours = ""
+  address = "310A Lincoln Tower, 1800 Cannon Drive, Columbus, OH 43210"
+  office_hours = "614-293-9286"
   phone = ""
   skype = "istping"
   telegram = ""
