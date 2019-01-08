@@ -71,8 +71,8 @@ enableGitInfo = false
   avatar = "PingZhang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail.pingzhang (at) gmail.com"
   address = "310A Lincoln Tower, 1800 Cannon Drive, Columbus, OH 43210"
-  office_hours = "614-293-9286"
-  phone = ""
+  office_hours = ""
+  phone = "614-293-9286"
   skype = "istping"
   telegram = ""
 
