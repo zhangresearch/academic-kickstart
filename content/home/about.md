@@ -11,31 +11,35 @@ weight = 5
 [interests]
   interests = [
     "Data Mining",
-    "Applied Machine Learning",
+    "Machine Learning",
     "Biomedical Informatics",
     "Computational Medicine"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer and Information Sciences"
+  course = "PhD in Computer Science"
   institution = "Temple University"
-  #year = 2012
+  year = 2012
 
 [[education.courses]]
-  course = "MS in Computer Software and Theory"
+  course = "MS in Computer Science"
   institution = "Huazhong University of Science and Technology"
-  #year = 2007
+  year = 2007
 
 [[education.courses]]
-  course = "BS in Computer Science and Technology"
+  course = "BS in Computer Science"
   institution = "Huazhong University of Science and Technology"
-  #year = 2004
+  year = 2004
  
 +++
 
 # Biography
 
-Ping Zhang is a Research Staff Member at the Center for Computational Health, IBM T. J. Watson Research Center. His research focuses on machine learning, data mining, and their applications to biomedical informatics and computational medicine. He has published more than 35 peer-reviewed scientific articles in top journals and conferences (e.g., _Nucleic Acids Research_, _BMC Bioinformatics_, _Journal of the American Medical Informatics Association_, KDD, AAAI, ECML, SDM, and CIKM) and filed more than 25 patent applications.
+Ping Zhang is an Assistant Professor at The Ohio State University, with joint appointments in the [Department of Biomedical Informatics](https://medicine.osu.edu/bmi/Pages/index.aspx), and the [Department of Computer Science and Engineering](https://cse.osu.edu/). Prior to Ohio State, he was a researcher at IBM TJ Watson Research Center. His research focuses on machine learning, data mining, and their applications to biomedical informatics and computational medicine.
 
-Dr. Zhang has served on the program committees of leading international conferences, including KDD, IJCAI, UAI and AMIA, and on the editorial boards of _BMC Medical Informatics and Decision Making_, _CPT: Pharmacometrics & Systems Pharmacology_ and _Journal of Healthcare Informatics Research_. He won the best in-use/industrial paper award for ESWC 2016 and received a Marco Ramoni Distinguished Paper nomination at AMIA Summits 2014. He is an ACM distinguished speaker and an IEEE Senior Member.
+Dr. Zhang published over 40 papers and filed over 30 patents. He has received IBM master inventor award in 2018, ESWC best in-use/industrial paper award in 2016, and AMIA Marco Ramoni distinguished paper nomination in 2014. He is an ACM Distinguished Speaker and IEEE Senior Member.
+
+# Recruitment Status
+
+Accepting/supporting highly qualified and motivated PhD students, postdoctoral associates, and visiting scholars with research interests related to data mining and machine learning. Interested applicants can contact Dr. Ping Zhang by sending CV to his email. 
